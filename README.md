@@ -1,2 +1,1 @@
-# 31rtasks
-all tasks from day 1
+https://hemamilaram.github.io/31rtasks/
